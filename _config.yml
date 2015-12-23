@@ -1,6 +1,6 @@
 name: STILL IN MOTION
 favicon: null
-layout_spectrum: 0.9672783929854631
+layout_spectrum: 0.93597
 typography_spectrum: 0.03333042771555483
 title: Still In Motion
 cta:
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.22099887393414974
+  brandStrength: 0.625
   lightness: 0.21516150911338627
   saturation: 0.4779375842772424
   rhythmicContrast: 0.38069427688606083
