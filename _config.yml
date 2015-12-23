@@ -1,0 +1,28 @@
+name: STILL IN MOTION
+favicon: null
+layout_spectrum: 0.9672783929854631
+typography_spectrum: 0.03333042771555483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22099887393414974
+  lightness: 0.21516150911338627
+  saturation: 0.4779375842772424
+  rhythmicContrast: 0.38069427688606083
+purpose: []
