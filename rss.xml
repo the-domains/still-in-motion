@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Still In Motion]]></title>
+        <description><![CDATA[Still In Motion]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Dec 2015 01:19:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[STILL IN MOTION]]></title>
+            <description><![CDATA[<article><h1>STILL IN MOTION</h1><p>Welcome to STILL IN MOTION</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17ccc3b8-5974-44d1-888f-78f2dca79d24.JPG"></article>]]></description>
+            <link>undefinedstill-in-motion/index.html</link>
+            <guid isPermaLink="false">d3db2633-55ff-4c66-9856-7f868b0b5a78</guid>
+            <pubDate>Fri, 25 Dec 2015 01:19:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
