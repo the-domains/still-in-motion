@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-25T01:17:56.243Z'
-dateModified: '2015-12-25T01:17:25.472Z'
+datePublished: '2015-12-25T01:19:03.471Z'
+dateModified: '2015-12-25T01:18:59.540Z'
 title: STILL IN MOTION
 author: []
 sourcePath: _posts/2015-12-23-still-in-motion.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: still-in-motion/index.html
+_type: Article
 
 ---
 Welcome to STILL IN MOTION
