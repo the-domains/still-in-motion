@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-25T01:19:03.471Z'
-dateModified: '2015-12-25T01:18:59.540Z'
+datePublished: '2015-12-25T01:22:43.618Z'
+dateModified: '2015-12-25T01:22:29.951Z'
 title: STILL IN MOTION
 author: []
 sourcePath: _posts/2015-12-23-still-in-motion.md
