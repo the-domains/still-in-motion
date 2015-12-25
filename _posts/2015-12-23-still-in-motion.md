@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T01:22:43.618Z'
-dateModified: '2015-12-25T01:22:29.951Z'
+datePublished: '2015-12-25T01:22:53.185Z'
+dateModified: '2015-12-25T01:22:46.430Z'
 title: STILL IN MOTION
 author: []
 sourcePath: _posts/2015-12-23-still-in-motion.md
