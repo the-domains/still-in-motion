@@ -1,6 +1,6 @@
 name: STILL IN MOTION
 favicon: null
-layout_spectrum: 0.69013
+layout_spectrum: 0.81418
 typography_spectrum: 0.22478
 title: Still In Motion
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#f2f2f0'
+    - '#0096c7'
+    - '#6e96ae'
+    - '#25241f'
+    - '#bdd7e3'
   brandStrength: 0.3125
   lightness: 0.75
   saturation: 0.3125
