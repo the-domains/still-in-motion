@@ -4,7 +4,7 @@
         <description><![CDATA[Still In Motion]]></description>
         <link>https://thegrid.ai/still-in-motion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 04:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 04:21:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/still-in-motion/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/still-in-motion/3eb68ac4-f6ac-4be3-908e-4fa375058bc6/index.html</link>
             <guid isPermaLink="false">3eb68ac4-f6ac-4be3-908e-4fa375058bc6</guid>
             <pubDate>Sat, 26 Dec 2015 04:15:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8a0eab3-3796-40f3-a361-87eea54545ff.JPG">]]></description>
-            <link>https://thegrid.ai/still-in-motion/73136cea-08d7-459b-b976-dad345156519/index.html</link>
-            <guid isPermaLink="false">73136cea-08d7-459b-b976-dad345156519</guid>
-            <pubDate>Fri, 25 Dec 2015 01:36:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
